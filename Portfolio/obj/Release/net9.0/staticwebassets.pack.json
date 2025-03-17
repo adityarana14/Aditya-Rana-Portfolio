@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/bin/Release/net9.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/obj/Release/net9.0/scopedcss/bundle/Portfolio.styles.css",
+      "PackagePath": "staticwebassets/Portfolio.styles.css"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/assets/AdityaRanaProfile.png",
+      "PackagePath": "staticwebassets/assets/AdityaRanaProfile.png"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/assets/black-button.png",
+      "PackagePath": "staticwebassets/assets/black-button.png"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/assets/bmc-logo-no-background.png",
+      "PackagePath": "staticwebassets/assets/bmc-logo-no-background.png"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/assets/bmc-logo.png",
+      "PackagePath": "staticwebassets/assets/bmc-logo.png"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/assets/favicon.ico",
+      "PackagePath": "staticwebassets/assets/favicon.ico"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/fontawesome/brands.min.css",
+      "PackagePath": "staticwebassets/css/fontawesome/brands.min.css"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/fontawesome/fontawesome.min.css",
+      "PackagePath": "staticwebassets/css/fontawesome/fontawesome.min.css"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/fontawesome/solid.min.css",
+      "PackagePath": "staticwebassets/css/fontawesome/solid.min.css"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/css/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/css/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/css/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/css/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/css/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/css/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/css/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/js/fontawesome.min.js",
+      "PackagePath": "staticwebassets/js/fontawesome.min.js"
+    },
+    {
+      "Id": "/Users/adityarana/Downloads/Portfolio-master 2/Portfolio/wwwroot/js/scripts.js",
+      "PackagePath": "staticwebassets/js/scripts.js"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.build.Portfolio.props",
+      "PackagePath": "build\\Portfolio.props"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.buildMultiTargeting.Portfolio.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.props"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.buildTransitive.Portfolio.props",
+      "PackagePath": "buildTransitive\\Portfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
